@@ -153,12 +153,12 @@ export const familyTree = {
               },
               "children": [
                 {
-                  "name": "Sansar Lamsal",
-                  "image": "Sansar Lamsal.jpeg"
+                  "name": "Sanshar Lamsal",
+                  "image": "Sanshar Lamsal.jpeg"
                 },
                 {
-                  "name": "Sara Lamsal",
-                  "image": "Sara Lamsal.jpeg"
+                  "name": "Sarah Lamsal",
+                  "image": "Sarah Lamsal.jpeg"
                 }
               ]
             },
@@ -351,8 +351,8 @@ export const familyTree = {
               },
               "children": [
                 {
-                  "name": "Rayan Joshi",
-                  "image": "Rayan Joshi.jpg"
+                  "name": "Ryan Joshi",
+                  "image": "Ryan Joshi.jpg"
                 }
               ]
             },
