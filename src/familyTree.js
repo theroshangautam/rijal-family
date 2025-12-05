@@ -132,7 +132,7 @@ export const familyTree = {
               "children": [
                 {
                   "name": "Sakshi Gyawali",
-                  "image": "Sakshi Gyawali.jpg"
+                  "image": "Sakshi Gyawali.jpeg"
                 },
                 {
                   "name": "Swati Gyawali",
@@ -201,7 +201,7 @@ export const familyTree = {
             {
               "name": "Suman Rijal",
               "image": "Suman Rijal.jpg",
-              "spouce": {
+              "spouse": {
                 "name": "Kamala Gyawali",
                 "Image": "Kamala Gyawali.jpg"
               }
@@ -351,8 +351,8 @@ export const familyTree = {
               },
               "children": [
                 {
-                  "name": "Ryan Joshi",
-                  "image": "Ryan Joshi.jpg"
+                  "name": "Rayan Joshi",
+                  "image": "Rayan Joshi.jpg"
                 }
               ]
             },
