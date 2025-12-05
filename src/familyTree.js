@@ -162,15 +162,7 @@ export const familyTree = {
                 }
               ]
             },
-            {
-              "name": "Manu Aryal",
-              "image": "Manu Aryal.jpeg",
-              "spouse": {
-                "name": "Kailash Ojha",
-                "image": "Kailash Ojha.jpeg"
-              }
-            },
-            {
+                        {
               "name": "Bishnu Aryal",
               "image": "Bishnu Aryal.jpeg",
               "spouse": {
@@ -187,6 +179,14 @@ export const familyTree = {
                   "image": "Shiva Aryal.jpeg"
                 }
               ]
+            },
+            {
+              "name": "Manu Aryal",
+              "image": "Manu Aryal.jpeg",
+              "spouse": {
+                "name": "Kailash Ojha",
+                "image": "Kailash Ojha.jpeg"
+              }
             }
           ]
         },
